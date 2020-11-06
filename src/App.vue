@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app >
     <v-app-bar
     src="https://cdn.vuetifyjs.com/images/backgrounds/vbanner.jpg"
       app
@@ -9,10 +9,8 @@
     >
     <h1>TranslateMe</h1>
     </v-app-bar>
-
-    <v-main fluid>
     <Content/>
-    </v-main>
+
   </v-app>
 </template>
 
@@ -38,4 +36,5 @@ export default {
   display: flex;
   justify-content: center;
 }
+
 </style>
