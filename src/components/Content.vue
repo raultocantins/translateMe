@@ -7,6 +7,7 @@
         solo
         class="mr-4 mt-5 select"
         v-model="de"
+        
       />
       <v-select
         :items="items"
@@ -27,17 +28,25 @@
           label="Digite o Texto"
           :value="input"
           v-model="input"
+          height="200"
           @input="translateText"
+          append-icon="mdi-comment"
+          no-resize
+
+        
         ></v-textarea>
       </v-col>
       <v-col md="6">
         <v-textarea
+        height="200"
           class="textarea"
           outlined
           name="input-7-4"
           label="Tradução"
-          :value="output"
-          v-model="output"
+          :value="output"      
+ no-resize
+
+ readonly
         ></v-textarea>
       </v-col>
     </v-col>
@@ -107,5 +116,13 @@ export default {
   box-shadow: none !important;
 
   padding: 50px;
+}
+@media(max-width:600px){
+  .toolbar{
+    padding: 10px;
+  }
+  .content{
+     display: block;
+  }
 }
 </style>
