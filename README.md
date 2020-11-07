@@ -23,5 +23,5 @@ Para gerar a versão final desktop basta acessar o terminal e digitar "npm run e
 ```
 ### Imagem do Projeto Desktop
 
-![imgReadme](https://drive.google.com/file/d/1TahM8cmoWM5capbf_Vo91atwrLOrAg9Z/view?usp=sharing)
+![imgReadme](https://drive.google.com/file/d/1TahM8cmoWM5capbf_Vo91atwrLOrAg9Z/view?usp=sharing?raw=true)
 
