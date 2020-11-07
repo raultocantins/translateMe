@@ -18,10 +18,15 @@ Como estou utilizando o electron-builder caso você queira utilizar a versão de
 
 ### Gerando Build com electron
 ```
-Para gerar a versão final desktop basta acessar o terminal e digitar "npm run electron:build" e o electron começará o processo de build do projeto, após finalizar é só acessar a nova pasta dist.
+Para gerar a versão final desktop basta acessar o terminal e digitar "npm run electron:build" e o electron começará o processo de build do projeto, após finalizar é só acessar a nova pasta dist_electron e executar o instalador.
 
 ```
 ### Imagem do Projeto Desktop
 
 ![imgReadme](https://github.com/raultocantins/translateMe/blob/master/src/assets/imgReadme.png)
 
+### Versão Desktop para download
+
+[Win32](https://drive.google.com/drive/folders/1w1IalnpV7l1_dcfSMoV74qBF7chP0iPz?usp=sharing).
+
+[Instalador](https://drive.google.com/file/d/1onOa8PY3Z5nysSQcZidpQgQdx6iDxbg7/view?usp=sharing).
