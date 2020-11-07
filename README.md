@@ -27,6 +27,6 @@ Para gerar a versão final desktop basta acessar o terminal e digitar "npm run e
 
 ### Versão Desktop para download
 
-[Win32](https://drive.google.com/drive/folders/1w1IalnpV7l1_dcfSMoV74qBF7chP0iPz?usp=sharing).
+[Win32](https://drive.google.com/drive/folders/1w1IalnpV7l1_dcfSMoV74qBF7chP0iPz?usp=sharing)
 
-[Instalador](https://drive.google.com/file/d/1onOa8PY3Z5nysSQcZidpQgQdx6iDxbg7).
+[Instalador](https://drive.google.com/file/d/1onOa8PY3Z5nysSQcZidpQgQdx6iDxbg7/view?usp=sharing)
